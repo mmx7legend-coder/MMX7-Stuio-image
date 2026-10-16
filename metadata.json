@@ -1,0 +1,6 @@
+{
+  "name": "MMX7 Image Studio",
+  "description": "Every Image. Every Tool. One Creative Studio. Premium online image processing, creative utilities, conversion, and AI image enhancement platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
